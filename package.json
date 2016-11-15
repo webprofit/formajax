@@ -1,0 +1,27 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webprofit/formajax.git"
+  },
+  "keywords": [
+    "formajax"
+  ],
+  "author": "Moskvita Vitaliy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webprofit/formajax/issues"
+  },
+  "homepage": "https://github.com/webprofit/formajax",
+  "devDependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
